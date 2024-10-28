@@ -1,10 +1,11 @@
 aggiungiamo questa riga
+
 # Gruppo A13-2024 (10/10/2024)
 
 Il nostro team ha lavorato su due task fondamentali per lo sviluppo del front-end del sistema di gioco: Task 5 e Task 6. 
 Il Task 5 riguarda l'interfaccia per l'avvio di una partita, consentendo ai giocatori autenticati di accedere all'area riservata, selezionare i parametri di gioco (come classi e robot caricati dagli amministratori) e avviare una partita nell'arena di gioco. VA BENE
 Il Task 6, invece, si occupa dell'interfaccia per giocare una partita, offrendo ai giocatori un editor di test case per scrivere codice Java, richiedere la compilazione, visualizzare i risultati di copertura e confrontare i propri risultati con quelli generati dal robot, decretando così il vincitore.
-
+QUI SCRIVO ALTRE COSE
 L'obiettivo iniziale era unificare i due task in un unico front-end. Tuttavia, la scarsa modularità e la complessità del codice esistente ci hanno portato a effettuare un completo refactoring del sistema per migliorarne la manutenibilità e l'efficienza. Abbiamo quindi ristrutturato l'applicazione introducendo tre package principali:
 
 - **Interface**: gestisce l'interazione con i servizi REST, incapsulando completamente la logica di rete e fornendo un dispatcher centralizzato, il Service Manager, per semplificare la gestione delle chiamate, con la sua introduzione è possibile definire e aggiungere facilmente nuovi task al Front-end, introdurre in modo veloce nuove chiamate REST a servizi già presenti, ma anche definire vari modi con cui sfruttare i servizi a disposizione e combinarli in modo semplice.
