@@ -1,4 +1,4 @@
-Ciao prova commit ciao
+
 # Gruppo A13-2024 (10/10/2024)
 
 Il nostro team ha lavorato su due task fondamentali per lo sviluppo del front-end del sistema di gioco: Task 5 e Task 6. 
