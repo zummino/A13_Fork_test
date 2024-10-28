@@ -1,6 +1,5 @@
-aggiungiamo questa riga
-
-# Gruppo A13-2024 (10/10/2024)
+riga aggiunta per risolvere il la ISSUE!
+# Gruppo A13-2024 (10/10/2024)  
 
 Il nostro team ha lavorato su due task fondamentali per lo sviluppo del front-end del sistema di gioco: Task 5 e Task 6. 
 Il Task 5 riguarda l'interfaccia per l'avvio di una partita, consentendo ai giocatori autenticati di accedere all'area riservata, selezionare i parametri di gioco (come classi e robot caricati dagli amministratori) e avviare una partita nell'arena di gioco. VA BENE
