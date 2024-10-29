@@ -1,4 +1,4 @@
-
+modifica per la issues #6
 QUESTO é IL MASTER!
 
 # Gruppo A13-2024 (10/10/2024)  
